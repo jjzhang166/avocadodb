@@ -1,7 +1,7 @@
 
 AvocadoDB
 ========
-v0.1
+
 
 
 avocadodb是具有灵活的数据模型
@@ -58,7 +58,7 @@ mkdir -p build
 
 #  驱动
 
-完全兼容ａｒａｎｇｄｏｄｂ协议　　毕竟暂时只汉化了界面
+完全兼容arangodb
 
 
 - 致谢[arangodb](https://github.com/arangodb/arangodb)
